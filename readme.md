@@ -6,4 +6,8 @@ Internet retail, also known as **e-commerce**, is the largest sector of the elec
 
 ### Demonstration
 
+![ecommerce-orm](https://user-images.githubusercontent.com/57713429/132049213-07863291-2cab-425d-9582-a12d4143b225.gif)
+
+### link to live video
+![link](https://drive.google.com/file/d/1HXFLNOtP91937vsPT0ZSed6HsH3ENiec/view)
 
